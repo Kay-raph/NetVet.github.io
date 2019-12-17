@@ -2,31 +2,38 @@
     text-align: center;
     margin-top:5%;
     width:50%;
-    margin-left: 23%; 
+    %; 
 }
 #name{
-  width:80%;  
+  width:150%;  
 }
 #telephone{
-    width:80%;
+    width:150%;
 }
 #time{
-    width:80%;
+    width:150%;
 }
 #animal{
-    width:80%;
+    width:150%;
 }
 #email{
-    width:80%;
+    width:150%;
 }
 #concerns{
-    width:80%;
+    width:150%;
 }
 #submit{
-    width:20%;
+    width:30%;
     margin-left: 15%;
 }
 #contact{
     margin-top:10%;
     background-color: gray;
+}
+.us{
+    margin-top: 10%;
+}
+h4{
+    color:green;
+    margin-left: 20%;
 }
