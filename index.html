@@ -11,7 +11,9 @@
 <body>
     <div class="container">
         <div class="row">
+            <div class="book">
                 <h4>Book Appointment</h4>
+            </div>
                 <div class="validate">
                   <form  class="form">
                     <input id="Full Name"  type="text" placeholder="Full Name---" ><br>
@@ -21,8 +23,8 @@
                     <input id="Email" type="text" placeholder="Email---"><br>
                     <textarea name="textarea" id="concerns" cols="30" rows="10" placeholder="Describe Concerns---"
                       .value()></textarea><br>
-                    <button id="submit" type="submit" onclick="validateForm()" placeholder="submit">Book now</button>
-                    <button id="submit" type="submit" onclick="validateForm()" placeholder="submit">Book Doctor</button>
+                    <button id="submit" type="submit" onclick="validateForm()" placeholder="submit" class="btn btn-danger btn-block">Book now</button><br>
+                    <button id="submit" type="submit" onclick="validateForm()" placeholder="submit" class="btn btn-success btn-block" >Book Doctor</button>
                   </form>
                 </div>
               </div>
