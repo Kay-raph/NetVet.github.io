@@ -1,3 +1,15 @@
 .book{
     text-align: center;
+    margin-top:5%; 
+}
+#name{
+  width:60%;  
+}
+#telephone{
+    width:60%;
+}
+.validate{
+    width:100%;
+    padding:12px 20px;
+    text-align: center;
 }
