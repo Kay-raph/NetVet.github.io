@@ -1,25 +1,27 @@
 .book{
     text-align: center;
-    margin-top:5%; 
+    margin-top:5%;
+    width:50%; 
 }
 #name{
-  width:60%;  
+  width:80%;  
 }
 #telephone{
-    width:60%;
+    width:80%;
 }
 #location{
-    width:60%;
+    width:80%;
 }
 #animal{
-    width:60%;
+    width:80%;
 }
 #email{
-    width:60%;
+    width:80%;
 }
 #concerns{
     width:80%;
 }
 #submit{
     width:20%;
+    margin-left: 15%;
 }
