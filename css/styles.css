@@ -8,8 +8,15 @@
 #telephone{
     width:60%;
 }
-.validate{
-    width:100%;
-    padding:12px 20px;
-    text-align: center;
+#location{
+    width:60%;
+}
+#animal{
+    width:60%;
+}
+#email{
+    width:60%;
+}
+#concerns{
+    width:80%;
 }
