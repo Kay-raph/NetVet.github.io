@@ -1,7 +1,8 @@
 .book{
     text-align: center;
     margin-top:5%;
-    width:50%; 
+    width:50%;
+    margin-left: 23%; 
 }
 #name{
   width:80%;  
@@ -27,4 +28,5 @@
 }
 #contact{
     margin-top:10%;
+    background-color: gray;
 }
