@@ -1,3 +1,56 @@
+nav{
+    width: 100%;
+    background-color: green;
+    margin: auto;
+    position: fixed;
+    height: 4%;
+    z-index: 1;
+    padding-right: 3%;
+    top: 0;
+    padding-bottom: 3%;
+    margin-left: 0;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    justify-content: space-around;
+    list-style: none;
+    margin: 0 30px;
+    cursor: pointer;
+    padding: 40px;
+    /* background-color: rgb(41, 2, 41); */
+}
+
+nav ul li a {
+    color: white;
+    /* width: 200px; */
+    text-decoration: none;
+    display: inline-block;
+    text-align: right;
+    padding: 15px;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-family: 'Amaranth', sans-serif;
+    font-weight: bold;
+    /* text-shadow: rgb(247, 6, 247); */
+}
+
+nav>ul>li>a:hover {
+    box-shadow: 0 0 10px black, inset 0 0 1px black;
+    background: rgb(173, 171, 171);
+    padding-bottom: 10px;
+    }
+body{
+    background-image: url("../img/bunny-n-girl.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
 .book{
     text-align: center;
     margin-top:5%;
@@ -31,6 +84,7 @@
 }
 .us{
     margin-top: 10%;
+    margin-left:20%; 
 }
 h4{
     color:green;
@@ -56,8 +110,9 @@ h3{
 }
 footer{
     background-color:grey;
-    padding:10px;
-    margin-top: 1%;
+    /* padding:10px; */
+    /* margin-top: 1%; */
     text-align: center;
     color:white;
+    
 }
