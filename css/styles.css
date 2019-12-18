@@ -2,25 +2,24 @@
     text-align: center;
     margin-top:5%;
     width:50%;
-    %; 
 }
 #name{
-  width:150%;  
+  width:200%;  
 }
 #telephone{
-    width:150%;
+    width:200%;
 }
 #time{
-    width:150%;
+    width:200%;
 }
 #animal{
-    width:150%;
+    width:200%;
 }
 #email{
-    width:150%;
+    width:200%;
 }
 #concerns{
-    width:150%;
+    width:200%;
 }
 #submit{
     width:30%;
@@ -41,16 +40,16 @@ h2{
     color:green;
 }
 #name1{
-    width:100%;
+    width:390%;
 }
 #message{
-    width:100%;
+    width:390%;
 }
 #email1{
-    width:100%;
+    width:390%;
 }
 #subject{
-    width:100%;
+    width:390%;
 }
 h3{
     color:white;
