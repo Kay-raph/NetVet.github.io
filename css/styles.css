@@ -60,15 +60,16 @@ nav>ul>li>a:hover {
       padding-bottom: 50px;
       padding-top: 80px;
       opacity: 0.8;
+      font-family: 'Chewy', cursive;
+      color: white;
   }
   
   .intro h1 {
       text-align: center;
-      color: white;
+     
   }
   
   .intro p {
-      color: white;
       font-size: 15px;
   }
    
