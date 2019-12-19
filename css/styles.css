@@ -79,3 +79,37 @@ nav>ul>li>a:hover {
   .serv h1{
     text-align: center;
   }
+  #routine, #general, #pet, #vaccinate, #surgery, #grooming, #dentistry, #nutrition, #animal,#development{
+    display:none;
+    font-weight:bold;
+    font-size:20px;
+    width:70%;
+  }
+  #grooming{
+    width:400px;
+    height:200px;
+  }
+  .pet{
+    position:absolute;
+    left:105%;
+    top:105%;
+    
+  }
+  #pet{
+    width:400px;
+    height:200px;
+  }
+  .nutrition{
+    position:absolute;
+    left:200%;
+    bottom:90%;
+  }
+  #nutrition{
+    width:400px;
+    height:200px;
+  }
+  .animal{
+    position:absolute;
+    left:205%;
+    top:8%;
+  }
