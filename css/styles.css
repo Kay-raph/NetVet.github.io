@@ -72,14 +72,16 @@ nav>ul>li>a:hover {
   .intro p {
       font-size: 15px;
   }
-   
+   #ab{
+     text-align: center;
+   }
   .abt{
     text-align: center;
   }
   .serv h1{
     text-align: center;
   }
-  #routine, #general, #pet, #vaccinate, #surgery, #grooming, #dentistry, #nutrition, #animal,#development{
+  #routine, #general, #pet, #vaccinate, #surgery, #grooming, #dentistry, #nutrition,#development{
     display:none;
     font-weight:bold;
     font-size:20px;
@@ -89,7 +91,7 @@ nav>ul>li>a:hover {
     width:400px;
     height:200px;
   }
-  .pet{
+  .pe{
     position:absolute;
     left:105%;
     top:105%;
@@ -99,7 +101,7 @@ nav>ul>li>a:hover {
     width:400px;
     height:200px;
   }
-  .nutrition{
+  .nutritio{
     position:absolute;
     left:200%;
     bottom:90%;
@@ -108,8 +110,34 @@ nav>ul>li>a:hover {
     width:400px;
     height:200px;
   }
-  .animal{
+  .anima{
     position:absolute;
     left:205%;
     top:8%;
   }
+  #ab{
+    position:relative;
+    left:800px;
+  }
+  body{
+    overflow-x: hidden;
+  }
+  #general{
+    width:auto;
+    height:auto;
+  }
+#animal{
+  width:400px;
+  height:200px;
+  display:none;
+    font-weight:bold;
+    font-size:20px;
+  
+}
+.form{
+  position:relative;
+  left:20px;
+}
+#hide{
+  display:none;
+}
