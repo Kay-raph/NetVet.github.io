@@ -91,7 +91,7 @@ $(document).ready(function(){
     $("#animal1").slideDown(2000).hide(1000);
     $("#animal").slideUp(2000).show(1000);
   })
-  $("#animal1").click(function(){
+  $("#animal").click(function(){
     $("#animal").slideUp(2000).hide(1000);
     $("#animal1").slideDown(2000).show(1000);
   })
