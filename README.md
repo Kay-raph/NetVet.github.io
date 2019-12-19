@@ -1,5 +1,5 @@
 ## NetVet Vetinary Clinic
-#### This repo contains code for Vetinary clinic website.
+#### This repo contains code for Veterinary clinic website.
 #### By **NetVet team**
 <li>Kevin Raphael</li>
 <li>Elizabeth Otieno</li>
@@ -8,6 +8,7 @@
 
 ## Description
 The website explains what NetVet clinic does. The website kicks off with a tagline followed by an about us section. The Services section has all the services offered in the clinic and the nutritional information that you may need for your animal. Then there is the contact us section where you get all the contact information as well be able to book a doctor or an appointment to the clinic.
+To get access to our project,click on the url https://kay-raph.github.io/NetVet.github.io/ .
 ## Behaviour Driven Development
 Behaviour Driven Development is an organized manner of pinning requirements in terms of what the user does. These requirements are then automatically interpreted into code to enhance agile development and automated testing.
 ##### Feature
